@@ -1,5 +1,682 @@
-#EXTM3U
+# EXTM3U url-tvg = “http://iptvx.one/epg/epg_lite.xml.gz” 
 
+############################################################################ Canais | Brasil
 
-#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | ABERTO",Globo MG HD
+#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Brazil",Globo MG
 http://185.150.190.225:16263/
+
+#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Brazil",Globo ES
+http://200.194.238.229:8383/live/globosupernet/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Brazil",Globo SP
+https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Brazil",Globo SP
+http://hls1.sua.tv:80/live/globosphd/s.m3u8
+
+#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBONEWS" tvg-logo="https://imgur.com/Wu4ykxo.png" group-title="Brazil",Globo News
+http://209.222.97.92:16436/
+
+#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBONEWS" tvg-logo="https://imgur.com/Wu4ykxo.png" group-title="Brazil",Globo News
+http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/24
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/lyQ1v9M.png" group-title="Brazil",Record SP
+http://51.83.238.223:16141/
+
+#EXTINF:-1 tvg-logo="https://imgur.com/lyQ1v9M.png" group-title="Brazil",Record SP 
+https://cdn-1.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/lyQ1v9M.png" group-title="Brazil",Record RJ
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/244091
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recnews.png" group-title="Brazil",Record News
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2935
+
+#EXTINF:-1 tvg-id="RECORD NEWS" tvg-name="RECORD NEWS" tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" group-title="Brazil",Record News
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=9794a1b041ad875093e398bc1632460a&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=runtime&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&custom_12=0&custom_15=pt-br&custom_16=EN&custom_17=en&site_page=https%253A%252F%252Fwww.runtime.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=South%2520America&timestamp=1688604990&id=11709&ip=138.185.238.172&override_expiration=1500&sign=z%2BA66gwNz60ZptKvp8RUzKwjztJdlXb4BFuJDdDAARg%3D
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Brazil",Band SP
+https://cdn-1.nxplay.com.br/BAND_HD_PFZ_NX/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Brazil",Band SP
+https://cdn-1.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8
+
+#EXTINF:-1 tvg-id="BANDNEWS" tvg-name="BANDNEWS" tvg-logo="https://imgur.com/jCZzNjF.png" group-title="Brazil",Band News
+https://cdn-1.nxplay.com.br/BAND_NEWS_TK/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/jCZzNjF.png" group-title="Brazil",Band News
+http://cdn2.connectbr.com.br:80/Band-News/mono.m3u8
+
+#EXTINF:-1 tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png" tvg-id="SBTNacional.br" group-title="Brazil",SBT
+http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SBT RJ" tvg-name="SBT RJ" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="Brazil",SBT RJ
+https://ythls.armelin.one/channel/UCsRfBAspa72ExrsN347W2xg.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/07/sbtrio.png" group-title="Brazil",SBT Rio
+https://ythlsgo.onrender.com/channel/UCsRfBAspa72ExrsN347W2xg.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/KO1v3pS.png" group-title="Brazil",SBT
+https://ythls.armelin.one/channel/UC40TUSUx490U5uR1lZt3Ajg.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Brazil",SBT Interior SP
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/06/Jpnewstv2022.webp" group-title="Brazil",Jovem Pan News
+http://d9tard1jbwri9.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MWGAfvV.png" group-title="Brazil",JP NEWS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6317ba014d4d040007227f72livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MWGAfvV.png" group-title="Brazil",JP NEWS
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01391-addigital-jovempan-klowdtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JP NEWS" tvg-name="JP NEWS" tvg-logo="https://i.imgur.com/MWGAfvV.png" group-title="Brazil",JP NEWS
+https://d9tard1jbwri9.cloudfront.net/playlist576p.m3u8
+
+#EXTINF:-1 tvg-id="JP NEWS" tvg-name="JP NEWS" tvg-logo="https://i.imgur.com/MWGAfvV.png" group-title="Brazil",JP NEWS
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_4.m3u8
+
+#EXTINF:-1 tvg-id="JP NEWS" tvg-name="JP NEWS" tvg-logo="https://i.imgur.com/MWGAfvV.png" group-title="Brazil",JP NEWS
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
+
+#EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN BRASIL" tvg-logo="https://imgur.com/4dfmnBs.png" group-title="Brazil",CNN BRASIL
+https://d25usgadhphvwi.cloudfront.net/hls/stv_plus_640x360/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN BRASIL" tvg-logo="https://imgur.com/4dfmnBs.png" group-title="Brazil",CNN BRASIL
+https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-name="TV Câmara" tvg-logo="https://i.imgur.com/UpV2PRk.png" tvg-id="TVCamara.br" group-title="Brazil",TV Câmara
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+
+#EXTINF:-1 tvg-name="AgroBrasil TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/60/Logo_AgroBrasilTV.jpg" tvg-id="AgroBrasilTV.br" group-title="Brazil",AgroBrasil TV
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/agrocanal.png" group-title="Brazil",AgroBrasil TV
+https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1280px-terra_viva_logo.svg_.png" group-title="Brazil",Terra Viva
+http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1280px-terra_viva_logo.svg_.png" group-title="Brazil",Terra Viva
+http://xciptv.aplicativos.top:80/live/p2puni777/8zksAAJgKEYq/2535.m3u8
+
+#EXTINF:-1 tvg-name="TVE RS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logotipo_da_TVE_RS.png" group-title="Brazil",TVE RS
+http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ISTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b5/Logotipo_da_ISTV.png" tvg-id="ISTVHD.br" group-title="Brazil",ISTV
+https://stmv1.srvstm.com/sistema7933/sistema7933/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1180px-cultura_logo_2013.svg_.png" group-title="Brazil",TV Cultura - TV Guará MA
+https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1180px-cultura_logo_2013.svg_.png" group-title="Brazil", TV Cultura - TV Futuro RJ
+https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/gazeta.png" group-title="Brazil", TV Gazeta SP
+https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/2vYqKX5.png" group-title="Brazil",Rede TV
+https://dtcatf1yeq90t.cloudfront.net/out/v1/474a19630faa47908e790373efc520d9/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW" tvg-logo="https://imgur.com/a4lEiwk.png" group-title="Brazil",Multishow
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2515
+
+#EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW" tvg-logo="https://imgur.com/a4lEiwk.png" group-title="Brazil",Multishow
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2516
+
+#EXTINF:-1 tvg-logo="https://imgur.com/WTCdLuw.png" group-title="Brazil",MTV
+http://cdn2.connectbr.com.br/mtv/index.m3u8
+
+#EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-logo="https://imgur.com/jcgv2zs.png" group-title="Brazil",Comedy Central
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/686
+
+#EXTINF:-1 tvg-name="DISCOVERY ID" tvg-logo="https://imgur.com/OJWv4Ij.png" group-title="Brazil",Discovery ID
+https://cdn-1.nxplay.com.br/DISCOVERY_ID_NX/index.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="https://imgur.com/lH1Srp9.png" group-title="Brazil",Discovery Turbo
+https://cdn-1.nxplay.com.br/DISCOVERY_TURBO_NX/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/6sTkahx.png" group-title="Brazil",Discovery World
+https://cdn-1.nxplay.com.br/DISCOVERY_WORLD_NX/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/VSezlWv.png" group-title="Brazil",Discovery h&h
+https://cdn-1.nxplay.com.br/DISCOVERY_HH_NX/index.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/dgGgYjc.png" group-title="Brazil",Discovery Channel 
+https://cdn-1.nxplay.com.br/DISCOVERY_CHANNEL_NX/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/dgGgYjc.png" group-title="Brazil",Discovery Channel 
+https://cdn-1.nxplay.com.br/DISCOVERY_CHANNEL_NX/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/1Hm6dQU.png" group-title="Brazil",Discovery Science 
+https://cdn-1.nxplay.com.br/DISCOVERY_SCIENCE_NX/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/NUFWsJ0.png" group-title="Brazil",Discovery Theater
+https://cdn-1.nxplay.com.br/DISCOVERY_THEATER_NX/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/0rNNqVy.png" group-title="Brazil",History
+https://cdn-1.nxplay.com.br/HISTORY_TK/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/t97qwNh.png" group-title="Brazil",Animal Planet
+https://cdn-1.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
+
+#EXTINF:-1 tvg-id="Pluto TV Investigação" tvg-name="Pluto TV Investigação" tvg-logo="https://imgur.com/JfLHsbj.png" group-title="Brazil",Pluto tv Investigação
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?advertisingId=&appName=web&appVersion=5.103.1-8fad9f5523fef57dce06179da605682c035afe99&app_name=web&clientDeviceType=0&clientID=3878c229-195a-4843-9847-d066d964e2de&clientModelNumber=1.0.0&country=BR&deviceDNT=false&deviceId=3878c229-195a-4843-9847-d066d964e2de&deviceLat=-10.4017&deviceLon=-39.0337&deviceMake=chromium-webview&deviceModel=web&deviceType=web&deviceVersion=93.0.4577&marketingRegion=BR&serverSideAds=true&sessionID=f85e9ccf-0cae-11ec-8588-0242ac110003&sid=f85e9ccf-0cae-11ec-8588-0242ac110003&userId=
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/620d12a82e8ac50007c269c3/colorLogoPNG.png" group-title="Brazil",Os Arquivos do FBI
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620d12a82e8ac50007c269c3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="Pluto TV MISTÉRIOS" tvg-name="Pluto TV MISTÉRIOS" tvg-logo="https://imgur.com/NhguLFB.png" group-title="Brazil",Pluto TV Mistérios
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fac52f142044f00078e2a51/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=469630a0-acb8-11eb-b9c5-c167fdadbada&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8e6159be-c98a-4ef4-89d8-635378b7761d&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1ef1a8cec6be00072a7ac9/colorLogoPNG.png" group-title="Brazil",Pluto TV Documentários
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ef1a8cec6be00072a7ac9/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/61843f5e491af10007f7eefa/colorLogoPNG.png" group-title="Brazil",Pluto TV Minha Obsessão Favorita
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61843f5e491af10007f7eefa/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6474aa984cfc2c0008883a92/colorLogoPNG.png" group-title="Brazil",Pluto TV Animais
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6474aa984cfc2c0008883a92/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63eba66da8b2270008436b10/colorLogoPNG.png" group-title="Brazil",World Poker Tour
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63eba66da8b2270008436b10/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="Pluto TV PARAMOUNT+ APRESENTA" tvg-logo="https://imgur.com/gTt3Ajw.png" group-title="Brazil",Paramount+ Apresenta
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60072798dcf437000755b4f3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9222c482-23a9-11ec-814d-c9455e72eab8&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bca7cae1-d7dc-4faf-a3e9-4e3ef654e13b&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://imgur.com/5xDbDl0.png" group-title="Brazil",Pânico 
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/602e80c762306a0007179876/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61bb72a7bf8c520007a8fd27/colorLogoPNG.png" group-title="Brazil",Pronto-socorro: Histórias De Emergência
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61bb72a7bf8c520007a8fd27/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/620d1512c7986a0007220213/colorLogoPNG.png" group-title="Brazil",Assombrações
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620d1512c7986a0007220213/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/638df93ae2f2a3000737c168/colorLogoPNG.png" group-title="Brazil",Detetives Médicos
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/638df93ae2f2a3000737c168/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/uflSiKs.png" group-title="Brazil", Comédia Brasil 
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-mvsphrecomedia-samsungbr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/PKguK6V.png" group-title="Brazil",Canal da Praça 
+https://fast.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/CanalDaPraca/8f4dbd2a-75c8-4407-8dc8-0dc243e3814d/4.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Xb0RMoR.png" group-title="Brazil",PORTA DOS FUNDOS
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f36f2346ede750007332d11/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781ef22-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a4be72ee-4337-4176-a253-be6d837c977f&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoPNG.png" group-title="Brazil",Comedy Central Pluto TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f357e91b18f0b00073583d2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62fd6b865a502400075b2caf/colorLogoPNG.png" group-title="Brazil",A Culpa é do Cabral
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62fd6b865a502400075b2caf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Brazil",2 Homens e Meio 24h
+http://24hrs.homelinux.com:80/24H-2HomensEmeio/video.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-name="Anime TV" tvg-logo="https://i.imgur.com/fuuv2uP.jpg" tvg-id="AnimeTV.br" group-title="Brazil",Anime TV
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="Discovery Kids" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYKIDS.png" group-title="Brazil",Discovery Kids
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/363
+
+#EXTINF:-1 tvg-logo="https://imgur.com/fHutaGN.png" group-title="Brazil", KIDS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/07/nickyoutube.jpg" group-title="Brazil", Nick Junior
+https://ythlsgo.onrender.com/video/uUM5Ya5zk1c.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/07/nickyoutube.jpg" group-title="Brazil", Nick Junior
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/367
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://marcas--logos-net.cdn.ampproject.org/i/s/marcas-logos.net/wp-content/uploads/2020/03/Nickelodeon-Logo-720x405.png" group-title="Brazil",Nickelodeon 
+https://cdn2.connectbr.com.br/Nickelodeon/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://marcas--logos-net.cdn.ampproject.org/i/s/marcas-logos.net/wp-content/uploads/2020/03/Nickelodeon-Logo-720x405.png" group-title="Brazil",Nickelodeon 
+http://cdn.connectbr.com.br/Nickelodeon/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/08/cartoon.webp" group-title="Brazil", Cartoon
+https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/08/cartoon.webp" group-title="Brazil", Cartoon
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/351
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/retro-tv.png" group-title="Brazil", Retrô Cartoon
+https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/smilinguido.png" group-title="Brazil", Gospel Cartoon
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Disney Channel" tvg-logo="https://imgur.com/20h0JkN.png" group-title="Brazil",Disney Channel
+http://51.83.238.223:16274/
+
+#EXTINF:-1 tvg-name="Disney Channel" tvg-logo="https://imgur.com/20h0JkN.png" group-title="Brazil",Disney Channel
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/356
+
+#EXTINF:-1 tvg-logo="https://imgur.com/0rAnW4w.png" group-title="Brazil",Chespirito
+http://168.205.87.198:8555/live/1492/123456/159.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Brazil",Chaves 24h
+http://24hrs.homelinux.com:80/24H-chaves-a-serie/video.m3u8?token=a4A2wbotS3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Brazil",DRAGON BALL Z
+http://24hrs.homelinux.com:80/24H-dragon.ball.z/video.m3u8?token=a4A2wbotS3
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Brazil",Tom & Jerry 24h
+http://24hrs.homelinux.com:80/24H-tom-e-jerry/video.m3u8?token=a4A2wbotS3
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Brazil",Scoobdoo 24h
+http://24hrs.homelinux.com:80/24H-scoobdoo/video.m3u8?token=a4A2wbotS3
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Brazil",Os Simpsons 24h
+http://24hrs.homelinux.com:80/24H-ossimpsons/video.m3u8?token=a4A2wbotS3
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Brazil",Caverna do Dragão 24h
+http://24hrs.homelinux.com:80/24H-Caverna.do.dragao.S01E01/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Brazil",ViVA
+http://64.31.40.14:14884/
+
+#EXTINF:-1 tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Brazil",ViVA 
+http://xciptv.aplicativos.top:80/live/p2puni777/8zksAAJgKEYq/2536.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/x9XvCqL.png" group-title="Brazil",TNT Novelas
+http://51.79.17.168:14613/
+
+#EXTINF:-1 tvg-logo="https://imgur.com/x9XvCqL.png" group-title="Brazil",TNT Novelas 
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/88
+
+#EXTINF:-1 tvg-logo="https://imgur.com/p7tvqin.png" group-title="Brazil",Novelando 
+http://d8ladbldf3ey5.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/p7tvqin.png" group-title="Brazil",Novelando 
+https://cc-21vbc0vo9kqq3.akamaized.net/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/tzYimlq.png" group-title="Brazil",Os Dez Mandamentos 
+https://d1w1no6ex9c1d6.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/crseFhh.png" group-title="Brazil",TVi Ficção
+https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Brazil",SporTV
+http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/80
+
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SporTV 2" tvg-logo="https://imgur.com/ZpjPkqS.png" group-title="Brazil",SporTV 2
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/553
+
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SporTV 2" tvg-logo="https://imgur.com/ZpjPkqS.png" group-title="Brazil",SporTV 2
+http://142.54.163.202:80/premium79/playlist.m3u8?ddd=1uXRVx7LzZ
+
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SporTV 3" tvg-logo="https://imgur.com/ttHpdGp.png" group-title="Brazil",SporTV 3
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/557
+
+http://142.54.163.202:80/premium79/playlist.m3u8?ddd=1uXRVx7LzZ
+#EXTINF:-1 tvg-logo="https://imgur.com/1QaofaO.png" group-title="Brazil",ESPN
+http://51.83.238.223:16515/
+
+#EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN BRASIL" tvg-logo="https://imgur.com/1QaofaO.png" group-title="Brazil",ESPN
+https://cr7v.short.gy/mano/ESPNHD/Index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN BRASIL" tvg-logo="https://imgur.com/1QaofaO.png" group-title="Brazil",ESPN
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/209
+
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://imgur.com/fggtC7Y.png" group-title="Brazil",ESPN 2
+http://capivara.top:80/play/YmztvPOUaQu6G_uK8dDscH2uzXzheGcubxdV6JAgZevtbWdu59HfH3xecThTT4UD
+
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://imgur.com/fggtC7Y.png" group-title="Brazil",ESPN 2
+http://capivara.top:80/play/YmztvPOUaQu6G_uK8dDscH2uzXzheGcubxdV6JAgZevJHMBJFEHS1YHxfHGD_Hy5
+
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://imgur.com/VCPTlBD.png" group-title="Brazil",ESPN 3
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/218
+
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://imgur.com/ErWFVO3.png" group-title="Brazil",ESPN 4
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/224
+
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://imgur.com/ErWFVO3.png" group-title="Brazil",ESPN 4
+http://51.83.238.223:16575/
+
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://imgur.com/ErWFVO3.png" group-title="Brazil",ESPN 4
+http://142.54.163.202/premium85/tracks-v1a1/mono.m3u8
+
+EXTINF:-1 tvg-logo="https://imgur.com/99wCwk8.png" group-title="Brazil",TNT Sports 
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-480p.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/99wCwk8.png" group-title="Brazil",TNT Sports 2
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-480p.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/99wCwk8.png" group-title="Brazil",TNT Sports 3
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-480p.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/99wCwk8.png" group-title="Brazil",TNT Sports 4
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-480p.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Brazil",Premiere Clubes
+http://208.115.225.174:14460/
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f32d2db0af67400077f29c4/colorLogoPNG.png" group-title="Brazil",Pluto TV Esportes
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d2db0af67400077f29c4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1000002HF_20230809T053511SQUARE.png_20230809053512.png" group-title="Brazil",FIFA PLUS
+https://fac26563.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNfSExT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://imgur.com/HyeeIkG.png" group-title="Brazil",Band Sports
+http://cdn.connectbr.com.br:80/Band-Sports/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/ligacampeones.png" group-title="Brazil",Liga Campeones
+http://15.235.15.232:8081/SPAIN%7CLIGADECAMPR/SPAIN%7CLIGADECAMPR/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/HIiZUQN.png" group-title="Brazil",Combate
+http://209.222.97.92:16493/
+
+#EXTINF:-1 tvg-logo="https://imgur.com/AvV9rW9.png" group-title="Brazil",UFC Fightpass
+http://capivara.top:80/play/YmztvPOUaQu6G_uK8dDscH2uzXzheGcubxdV6JAgZev91o40nUnkPu0nMqfV-ogA
+
+
+
+
+
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC" tvg-logo="http://app.tvdigital.link:2095/logoscanais/AMC.png" group-title="Brazil",AMC
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/670
+
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E" tvg-logo="http://app.tvdigital.link:2095/logoscanais/A&E.png" group-title="Brazil",A&E
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/665
+
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN" tvg-logo="http://app.tvdigital.link:2095/logoscanais/AXN.png" group-title="Brazil",AXN
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/675
+
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="Canal Sony" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SONYCHANNEL.png" group-title="Brazil",Canal Sony
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/701
+
+#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Brazil",Warner Channel
+http://208.115.225.174:14132/
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TNT_Logo_2016.svg" group-title="Brazil",TNT
+https://cdn-1.nxplay.com.br/TNT_TK/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TNT_Logo_2016.svg" group-title="Brazil",TNT
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21285
+
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT Series" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TNTSERIES.png" group-title="Brazil",TNT Series
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/737
+
+#EXTINF:-1 tvg-logo="https://htforum.net/data/attachments/17/17888-ce1befddf95afe46cc1dbab4052f2129.jpg" group-title="Brazil",SPACETV
+https://stmv1.srvif.com/2022/2022/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/03/Space-Logo.png" group-title="Brazil",Space
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/706
+
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/03/Space-Logo.png" group-title="Brazil",Space
+https://cdn-1.nxplay.com.br/SPACE_TK/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://htforum.net/data/attachments/17/17099-f1df3467e9cb7b382b92575a2cfb8b7c.jpg" group-title="Brazil",HALLO MOVIES
+https://cdn-2.nxplay.com.br:443/HALLOMOVIES/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
+
+#EXTINF:-1 tvg-logo="https://htforum.net/data/attachments/17/17099-f1df3467e9cb7b382b92575a2cfb8b7c.jpg" group-title="Brazil",HALLO SERIES
+https://cdn-1.nxplay.com.br/HALLOSERIES/tracks-v1a1/mono.m3u8?token=cdntv_62qwd7eSv1Ihnlni
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/design-de-logotipo-para-producao-de-filmes_71835-16.jpg" group-title="Brazil",HTO FILMES
+https://cdn-1.nxplay.com.br/HTO_Filmes/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hdtvone.tv/wp-content/uploads/2018/09/cropped-HTO.tv-LOGO-HEADER-e1535917877621-1.png" group-title="Brazil",HTO FILMES
+https://cdn-2.nxplay.com.br/HTO_Filmes/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VwFjFMO.png" group-title="Brazil",Universal Channel
+http://208.115.225.174:14128/
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VwFjFMO.png" group-title="Brazil",Universal Channel
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21288
+
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="Studio Universal" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STUDIOUNIVERSAL.png" group-title="Brazil",Studio Universal
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21276
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/faV3eZx.png" group-title="Brazil",Telecine Action
+http://64.31.40.14:14056/
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/faV3eZx.png" group-title="Brazil",Telecine Action
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/614
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/faV3eZx.png" group-title="Brazil",Telecine Action
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/588
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/cPTZMTo.png" group-title="Brazil",Telecine Pipoca
+http://51.83.238.223:16763/
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/cPTZMTo.png" group-title="Brazil",Telecine Pipoca
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/629
+
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="Telecine Cult" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Brazil",Telecine Cult
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/619
+
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Brazil",Telecine Fun
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/624
+
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Brazil",Telecine Premium
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/635
+
+#EXTINF:-1 tvg-logo="https://imgur.com/szGH75G.png" group-title="Brazil",FX
+http://199.127.60.83:16043/
+
+#EXTINF:-1 tvg-logo="https://imgur.com/szGH75G.png" group-title="Brazil",FX
+http://64.31.40.14:14043/
+
+#EXTINF:-1 tvg-logo="https://imgur.com/szGH75G.png" group-title="Brazil",FX
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/594
+
+#EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://imgur.com/v3a4Afr.png" group-title="Brazil",CINEMAX
+http://64.31.40.14:14031/
+
+#EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://imgur.com/v3a4Afr.png" group-title="Brazil",CINEMAX
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/681
+
+#EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX" tvg-logo="https://imgur.com/H03jUu1.png" group-title="Brazil",MEGAPIX
+http://64.31.40.14:14048/
+
+#EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX" tvg-logo="https://imgur.com/H03jUu1.png" group-title="Brazil",MEGAPIX
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/691
+
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Brazil",HBO
+http://208.115.225.174:14136/
+
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Brazil",HBO
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18753
+
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Brazil",HBO 2
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18757
+
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Brazil",HBO Family
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18761
+
+#EXTINF:-1 tvg-logo="https://imgur.com/2dINPFY.png" group-title="Brazil",HBO Family
+http://208.115.225.174:14144/
+
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Brazil",HBO MUNDI
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18773
+
+#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://imgur.com/OzINH3M.png" group-title="Brazil",HBO SIGNATURE 
+http://208.115.225.174:14160/
+
+#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://imgur.com/OzINH3M.png" group-title="Brazil",HBO SIGNATURE 
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18769
+
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Brazil",HBO POP
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18781
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mkxd6PK.png" group-title="Brazil",HBO Xtreme
+http://208.115.225.174:14165/
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mkxd6PK.png" group-title="Brazil",HBO Xtreme
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18777
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-QZhhn6FN9to/UlFrsL3Tt0I/AAAAAAAAbHo/ds9DswoDlWo/s400/Logo%2Bdo%2BSite.png" group-title="Brazil",CINEPIX
+https://stmv1.conectastreaming.com/hitstv/hitstv/chunklist_w1295959840.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XKMFQRl.png" group-title="Brazil", DarkFlix
+https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/3Wpaz9E.png" group-title="Brazil",Runtime Ação
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
+
+#EXTINF:-1 tvg-logo="https://imgur.com/5aavtj1.png" group-title="Brazil",Runtime TV e Filmes
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
+
+#EXTINF:-1 tvg-logo="https://imgur.com/TZ7LfjB.png" group-title="Brazil",Runtime Comédia
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
+
+#EXTINF:-1 tvg-logo="https://imgur.com/pFtnILf.png" group-title="Brazil",Runtime Família 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
+
+#EXTINF:-1 tvg-logo="https://imgur.com/U6ElKK3.png" group-title="Brazil",Runtime Romance
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
+
+#EXTINF:-1 tvg-logo="https://imgur.com/bzX7MO8.png" group-title="Brazil",Runtime Cine Espanto
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
+
+#EXTINF:-1 tvg-logo="https://imgur.com/KQt9WGA.png" group-title="Brazil",Runtime Crime
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62c5d32e2c48f9000715b6e9/colorLogoPNG.png" group-title="Brazil",Runtime
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62c5d32e2c48f9000715b6e9livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6479ff764f5ba5000878dfe2/colorLogoPNG.png" group-title="Brazil",Pluto TV Cine Crime
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6479ff764f5ba5000878dfe2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fa991b1f09e020007e78626/colorLogoPNG.png" group-title="Brazil",Pluto TV Cine Inspiração
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fa991b1f09e020007e78626/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="Pluto TV Cine Sucessos" tvg-logo="https://imgur.com/6k7cOAE.png" group-title="Brazil",Pluto TV Cine Sucessos
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120e94a5714d00074576a1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977e45a0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=52960630-50b9-4a4d-b84b-6ed25b88774b&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://imgur.com/8Vr6580.png" group-title="Brazil",Pluto TV Filmes Ação
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=aa3491bc-d231-4643-b51b-993c04890e52&clientModelNumber=na&deviceDNT=false&deviceId=aa3491bc-d231-4643-b51b-993c04890e52&deviceLat=-22.8970&deviceLon=-47.0444&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=57.0.2987.132&marketingRegion=BR&serverSideAds=true&sessionID=678bad8e-514a-11eb-a8d7-0242ac110002&sid=678bad8e-514a-11eb-a8d7-0242ac110002&userId=
+
+#EXTINF:-1 tvg-logo="https://imgur.com/CaNAHVg.png" group-title="Brazil",Pluto TV Cine Terror
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=aa3491bc-d231-4643-b51b-993c04890e52&clientModelNumber=na&deviceDNT=false&deviceId=aa3491bc-d231-4643-b51b-993c04890e52&deviceLat=-22.8970&deviceLon=-47.0444&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=57.0.2987.132&marketingRegion=BR&serverSideAds=true&sessionID=75189c32-4fbb-11eb-a8d7-0242ac110002&sid=75189c32-4fbb-11eb-a8d7-0242ac110002&userId=
+
+#EXTINF:-1 tvg-logo="https://imgur.com/q17ntdH.png" group-title="Brazil",Pluto TV Cine Drama
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=eabb34b1-5995-4c43-8147-d3f8d09696f2&clientModelNumber=na&deviceDNT=false&deviceId=eabb34b1-5995-4c43-8147-d3f8d09696f2&deviceLat=-10.0000&deviceLon=-55.0000&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=87.0.4280.88&marketingRegion=BR&serverSideAds=true&sessionID=30971196-4529-11eb-b866-0242ac110002&sid=30971196-4529-11eb-b866-0242ac110002&userId=
+
+#EXTINF:-1 tvg-logo="https://imgur.com/SIUu1eO.png" group-title="Brazil",Pluto TV Séries
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121262a189a800076b9386/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=eabb34b1-5995-4c43-8147-d3f8d09696f2&clientModelNumber=na&deviceDNT=false&deviceId=eabb34b1-5995-4c43-8147-d3f8d09696f2&deviceLat=-10.0000&deviceLon=-55.0000&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=87.0.4280.88&marketingRegion=BR&serverSideAds=true&sessionID=30971196-4529-11eb-b866-0242ac110002&sid=30971196-4529-11eb-b866-0242ac110002&userId=
+
+#EXTINF:-1 tvg-logo="https://imgur.com/LoiqpXA.png" group-title="Brazil",Pluto TV Cine Romance
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?advertisingId=&appName=web&appVersion=5.103.1-8fad9f5523fef57dce06179da605682c035afe99&app_name=web&clientDeviceType=0&clientID=3878c229-195a-4843-9847-d066d964e2de&clientModelNumber=1.0.0&country=BR&deviceDNT=false&deviceId=3878c229-195a-4843-9847-d066d964e2de&deviceLat=-10.4017&deviceLon=-39.0337&deviceMake=chromium-webview&deviceModel=web&deviceType=web&deviceVersion=93.0.4577&marketingRegion=BR&serverSideAds=true&sessionID=f84953a8-0c9c-11ec-8983-0242ac110003&sid=f84953a8-0c9c-11ec-8983-0242ac110003&userId=
+
+#EXTINF:-1 tvg-id="Pluto TV Namorados" tvg-logo="https://images.pluto.tv/channels/62545ed3dab4380007582f7c/solidLogoPNG.png" group-title="Brazil",Pluto TV Cine Comédia Romântica
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62545ed3dab4380007582f7c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/solidLogoPNG.png" group-title="Brazil",Pluto TV Cine Comédia
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="Pluto TV Cine Suspense" tvg-logo="https://imgur.com/K9gHNmZ.png" group-title="Brazil",Filmes Suspense
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId=&appName=web&appVersion=5.103.1-8fad9f5523fef57dce06179da605682c035afe99&app_name=web&clientDeviceType=0&clientID=3878c229-195a-4843-9847-d066d964e2de&clientModelNumber=1.0.0&country=BR&deviceDNT=false&deviceId=3878c229-195a-4843-9847-d066d964e2de&deviceLat=-10.4017&deviceLon=-39.0337&deviceMake=chromium-webview&deviceModel=web&deviceType=web&deviceVersion=93.0.4577&marketingRegion=BR&serverSideAds=true&sessionID=1816ea1a-0c99-11ec-ade7-0242ac110003&sid=1816ea1a-0c99-11ec-ade7-0242ac110003&userId=
+
+#EXTINF:-1 tvg-logo="https://imgur.com/bRKFjwD.png" group-title="Brazil",Pluto TV Cine Clássicos
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5fa1612a669ba0000702017b/master.m3u8?advertisingId=&appName=web&appVersion=5.103.1-8fad9f5523fef57dce06179da605682c035afe99&app_name=web&clientDeviceType=0&clientID=3878c229-195a-4843-9847-d066d964e2de&clientModelNumber=1.0.0&country=BR&deviceDNT=false&deviceId=3878c229-195a-4843-9847-d066d964e2de&deviceLat=-10.4017&deviceLon=-39.0337&deviceMake=chromium-webview&deviceModel=web&deviceType=web&deviceVersion=93.0.4577&marketingRegion=BR&serverSideAds=true&sessionID=0452bc54-0c9a-11ec-abd1-0242ac110003&sid=0452bc54-0c9a-11ec-abd1-0242ac110003&userId=
+
+#EXTINF:-1 tvg-logo="https://imgur.com/qPhjnv9.png" group-title="Brazil",Pluto TV Filmes Nacionais
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?advertisingId=&appName=web&appVersion=5.103.1-8fad9f5523fef57dce06179da605682c035afe99&app_name=web&clientDeviceType=0&clientID=3878c229-195a-4843-9847-d066d964e2de&clientModelNumber=1.0.0&country=BR&deviceDNT=false&deviceId=3878c229-195a-4843-9847-d066d964e2de&deviceLat=-10.4017&deviceLon=-39.0337&deviceMake=chromium-webview&deviceModel=web&deviceType=web&deviceVersion=93.0.4577&marketingRegion=BR&serverSideAds=true&sessionID=0452bc54-0c9a-11ec-abd1-0242ac110003&sid=0452bc54-0c9a-11ec-abd1-0242ac110003&userId=
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/633dcebd80386500074a2461/colorLogoPNG.png" group-title="Brazil",Pluto TV Filmelier
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/633dcebd80386500074a2461/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fa15ad6367e170007cdd098/colorLogoPNG.png" group-title="Brazil",Pluto TV Ficção Científica
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fa15ad6367e170007cdd098/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61b790b985706b00072cb797/colorLogoPNG.png" group-title="Brazil",Pluto TV Adrenalina Freezone
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SYFY.png" group-title="Brazil",SYFY
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/717
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64ff2d8c6625510008c5a512/colorLogoPNG.png" group-title="Brazil",Rookie Blue
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64ff2d8c6625510008c5a512/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64ff2c773efb5100082efb73/colorLogoPNG.png" group-title="Brazil",Inferno sobre Rodas
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64ff2c773efb5100082efb73/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64e501eec630a900088ed0f8/colorLogoPNG.png"group-title="Brazil",Clube do Terror
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64e501eec630a900088ed0f8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6474ab1da51cb80008bfb5f4/colorLogoPNG.png" group-title="Brazil",Pluto TV Séries Ação
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6474ab1da51cb80008bfb5f4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://imgur.com/v6p3pSw.png" group-title="Brazil",BET Pluto TV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff768b6a4c8b80008498610/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b24c76a3-8dd8-11eb-83c3-1ff76e6e06e9&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=65d20d49-b2d8-4725-9f02-e688df67da0e&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63d2ba2f60bc8f0008981a0e/colorLogoPNG.png" group-title="Brazil",Pluto TV Séries Sci-Fi
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63d2ba2f60bc8f0008981a0e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="Star Channel" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARCHANNEL.png" group-title="Brazil",Star Channel
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21238
+
+
+
+
+EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rbtv-logo-rede-brasil.png" group-title="Brazil", Rede Brasil SP
+https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="RBC" tvg-logo="https://portal.rbc1.com.br/public/portal/img/layout/logorbc.png" group-title="Brazil",RBC
+http://rbc.directradios.com:1935/rbc/rbc/live.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z49TV0y.png" group-title="Brazil",Canção Nova
+https://cdn-1.nxplay.com.br/CANCAO_NOVA_TK/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tv_evangelizar.png" group-title="Brazil",TV Evangelizar
+https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/200px-rede_vida_logo.png" group-title="Brazil",Rede Vida
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/2018091805332321logotipo_da_tv_aparecida.png" group-title="Brazil",TV Aparecida
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/seculo21.png" group-title="Brazil", Rede Século 21
+https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/paieterno.png" group-title="Brazil",TV Pai Eterno
+https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redemetropole.png" group-title="Brazil", Rede Metrópole
+https://ebocast.ebosystems.com.br:3456/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mcEd9qv.png" group-title="Brazil",Play TV
+https://isaocorp.cloudecast.com/playtv/index.m3u8
+
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="https://imgur.com/jvvmyCv.png" group-title="Brazil",BIS
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2463
+
