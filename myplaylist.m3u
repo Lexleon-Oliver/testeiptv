@@ -2,9 +2,24 @@
 
 
 ############################################################################ Canais | TELECINE
- 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/faV3eZx.png" group-title="TELECINE",Telecine Action
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FqhduDG.png" group-title="TELECINE",Telecine Action
 http://64.31.40.14:14056/
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FqhduDG.png" group-title="TELECINE",Telecine Cult
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83262
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FqhduDG.png" group-title="TELECINE",Telecine Fun
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83263
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FqhduDG.png" group-title="TELECINE",Telecine Pipoca
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/629
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FqhduDG.png" group-title="TELECINE",Telecine Premium
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83265
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FqhduDG.png" group-title="TELECINE",Telecine Touch
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83266
 
 ############################################################################ Canais | RUNTIME
  
